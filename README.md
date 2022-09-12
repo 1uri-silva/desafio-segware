@@ -31,6 +31,6 @@ Desenvolver uma web para listagem de postes e que o usuário possa adicionar nov
 <h1 align="center">
 🚀 Licence
 </h1>
-<a href='https://github.com/1uri-silva/desafio-segware/blob/main/LICENSE'> LICENSE </a>
+<a href='https://github.com/1uri-silva/desafio-segware/blob/master/LICENCE'> LICENSE </a>
 </div>
 
