@@ -21,12 +21,16 @@ Desenvolver uma web para listagem de postes e que o usuário possa adicionar nov
 <a href="https://jestjs.io/">Jest</a>
 </p>
 <p align="start">
+<a href="https://styled-components.com/">styled-components</a>
+</p>
+<p align="start">
 <a href="https://www.typescriptlang.org/">Typescript</a>
 </p>
 </div>
 <div id="image" style="margin-top:60px;">
 <h1 align="center">
-🚀 Projeto
+🚀 Licence
 </h1>
-</div>
 <a href='https://github.com/1uri-silva/desafio-segware/blob/main/LICENSE'> LICENSE </a>
+</div>
+
