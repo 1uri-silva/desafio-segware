@@ -28,9 +28,5 @@ Desenvolver uma web para listagem de postes e que o usuário possa adicionar nov
 <h1 align="center">
 🚀 Projeto
 </h1>
-<div style="display:flex; flex-direction: row; justify-content: center;" >
-<img src="readme/home.png" width="200"/>
-<img src="readme/app.gif" width="200"/>
-</div>
 </div>
 <a href='https://github.com/1uri-silva/desafio-segware/blob/main/LICENSE'> LICENSE </a>
