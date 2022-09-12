@@ -14,11 +14,11 @@ Desenvolver uma web para listagem de postes e que o usuário possa adicionar nov
 <h1 align="center" >⚡ Tecnologias</h1>
 </p>
 <p align="start">
-<a href="https://reactjs.org/">Expo</a>
+<a href="https://reactjs.org/">React</a>
 </p>
 </p>
 <p align="start">
-<a href="https://jestjs.io/">Lottie</a>
+<a href="https://jestjs.io/">Jest</a>
 </p>
 <p align="start">
 <a href="https://www.typescriptlang.org/">Typescript</a>
