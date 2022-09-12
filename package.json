@@ -1,7 +1,7 @@
 {
   "name": "social-votes",
   "version": "0.1.0",
-  "private": true,
+  "description": "Projeto destinado ao desafio da Segware",
   "dependencies": {
     "axios": "^0.27.2",
     "react": "^18.2.0",
